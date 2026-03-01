@@ -1,0 +1,391 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/il.xml.gz" x-tvg-url="https://iptv-org.github.io/epg/guides/il.xml.gz"
+#EXTINF:0 tvg-rec="3" tvg-id="Keshet12.il" tvg-name="קשת 12",קשת 12
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2329/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="Reshet13.il" tvg-name="רשת 13",רשת 13
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2330/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="Channel9.il" tvg-name="ערוץ 9",ערוץ 9
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2331/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="Kan11.il" tvg-name="כאן 11",כאן 11
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2332/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="DisneyJr.il" tvg-name="דיסני ג׳וניור",דיסני ג׳וניור
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2333/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="TeenNick.il" tvg-name="טין ניק",טין ניק
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2334/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="NickJr.il" tvg-name="ניק ג׳וניור",ניק ג׳וניור
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2337/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="hop.il" tvg-name="הופ",הופ
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2338/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="HomePlus.il" tvg-name="הום פלוס",הום פלוס
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2339/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="ONEHD.il" tvg-name="ONE HD",ONE HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2340/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="Sport5HD.il" tvg-name="ספורט 5 HD",ספורט 5 HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2341/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="YesIsraeliCinema.il" tvg-name="יס Israeli Cinema",יס Israeli Cinema
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2342/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="YesDRAMAHD.il" tvg-name="יס דרמה HD",יס דרמה HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2343/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="YesDOCUHD.il" tvg-name="יס דוקו HD",יס דוקו HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2344/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="YesCOMEDYHD.il" tvg-name="יס קומדי HD",יס קומדי HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2345/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="YesACTIONHD.il" tvg-name="יס אקשן HD",יס אקשן HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2346/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="YesMoviesComedy.il" tvg-name="יס מוביז קומדי",יס מוביז קומדי
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2348/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="YesMoviesKids.il" tvg-name="יס מוביז ילדים",יס מוביז ילדים
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2349/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="YesMoviesAction.il" tvg-name="יס מוביז אקשן",יס מוביז אקשן
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2350/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="YesMoviesDrama.il" tvg-name="יס מוביז דרמה",יס מוביז דרמה
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2351/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="SPORT2HD.il" tvg-name="ספורט 2 HD",ספורט 2 HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2352/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="Sport1HD.il" tvg-name="ספורט 1 HD",ספורט 1 HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2353/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="HotHBOHD.il" tvg-name="Hot HBO HD",Hot HBO HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2354/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="GoodLife.il" tvg-name="גוד לייף",גוד לייף
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2355/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="HOTcinema4.il" tvg-name="הוט סינמה 4",הוט סינמה 4
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2356/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="HOTcinema1.il" tvg-name="הוט סינמה 1",הוט סינמה 1
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2357/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="DiscoveryHD.il" tvg-name="דיסקברי HD",דיסקברי HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2358/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="ZOOM.il" tvg-name="ZOOM",ZOOM
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2359/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="HotZone.il" tvg-name="Hot Zone",Hot Zone
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2360/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="TravelChannel.il" tvg-name="טרוול צ׳אנל",טרוול צ׳אנל
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2361/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="Sport5PlusLiveHD.il" tvg-name="ספורט 5 + לייב HD",ספורט 5 + לייב HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2362/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="HarutzHadramotHaturkiyot.il" tvg-name="Harutz Hadramot Haturkiyot",Harutz Hadramot Haturkiyot
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2363/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="HotLuli.il" tvg-name="הוט לולי",הוט לולי
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2364/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="Kids.il" tvg-name="ילדים",ילדים
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2365/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="Junior.il" tvg-name="ג׳וניור",ג׳וניור
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2366/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="HOT3.il" tvg-name="הוט 3",הוט 3
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2367/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="HopYaldutIsraelit.il" tvg-name="הופ! ילדות ישראלית",הופ! ילדות ישראלית
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2368/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="Channel98.il" tvg-name="ערוץ 98",ערוץ 98
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2369/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="Baby.il" tvg-name="בייבי",בייבי
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2370/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="HOTcinema2.il" tvg-name="הוט סינמה 2",הוט סינמה 2
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2371/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="HOTcinema3.il" tvg-name="הוט סינמה 3",הוט סינמה 3
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2372/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="ONE2HD.il" tvg-name="ONE 2 HD",ONE 2 HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2373/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="Channel9HD.il" tvg-name="ערוץ 9 HD",ערוץ 9 HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2374/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="EgoTotal.il" tvg-name="אגו טוטאל",אגו טוטאל
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2376/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="FoodNetwork.il" tvg-name="פוד נטוורק",פוד נטוורק
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2377/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="Health.il" tvg-name="בריאות",בריאות
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2378/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="Entertainment.il" tvg-name="בידור",בידור
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2379/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="KanElady.il" tvg-name="Kan Elady",Kan Elady
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2380/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="Mekan33.il" tvg-name="מכאן 33",מכאן 33
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2381/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="VivaPlus.il" tvg-name="ויוה+",ויוה+
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2382/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="Yaldut.il" tvg-name="Yaldut",Yaldut
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2383/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="i24.il" tvg-name="i24NEWS",i24NEWS
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2386/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="VIVA.il" tvg-name="ויוה",ויוה
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2387/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="Sport3HD.il" tvg-name="ספורט 3 HD",ספורט 3 HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2388/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="Sport4HD.il" tvg-name="ספורט 4 HD",ספורט 4 HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2389/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="Yamtihoni.il" tvg-name="ים תיכוני",ים תיכוני
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2390/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="Sport5.il" tvg-name="ספורט 5",ספורט 5
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2391/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="YesDocuFHD.il" tvg-name="יס Docu FHD",יס Docu FHD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/7113/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-id="Eurosport2HD.il" tvg-name="יורוספורט 2 HD",יורוספורט 2 HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/7203/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="DISNEYJR.il" tvg-name="דיסני ג׳וניור",דיסני ג׳וניור
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12206/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="EGOTOTALHD.il" tvg-name="אגו טוטאל HD",אגו טוטאל HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12207/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="EXTREME.il" tvg-name="אקסטרים",אקסטרים
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12208/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="FOODCHANNE.il" tvg-name="ערוץ האוכל",ערוץ האוכל
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12209/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="HEALTHCHANNELHD.il" tvg-name="ערוץ הבריאות HD",ערוץ הבריאות HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12210/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="HIDABRUT.il" tvg-name="הידברות",הידברות
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12211/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="HOPCHILDHOOD.il" tvg-name="הופ ילדות",הופ ילדות
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12213/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="HOT3HD.il" tvg-name="הוט 3 HD",הוט 3 HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12214/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="HOTCINEMA2HD.il" tvg-name="הוט סינמה 2 HD",הוט סינמה 2 HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12215/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="HOT8HD.il" tvg-name="הוט 8 HD",הוט 8 HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12216/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="HOTCOMEDYCENTRALHD.il" tvg-name="HOT COMEDY CENTRAL HD",HOT COMEDY CENTRAL HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12217/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="HOTCINEMA4HD.il" tvg-name="הוט סינמה 4 HD",הוט סינמה 4 HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12218/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="HOTENTERTAINMENTHD.il" tvg-name="HOT ENTERTAINMENT HD",HOT ENTERTAINMENT HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12219/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="HOTCINEMA3HD.il" tvg-name="הוט סינמה 3 HD",הוט סינמה 3 HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12220/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="HOTZONEHD.il" tvg-name="HOT ZONE HD",HOT ZONE HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12222/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="HUMORCHANNELHD.il" tvg-name="HUMOR CHANNEL HD",HUMOR CHANNEL HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12223/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="LIFETIMEHD.il" tvg-name="לייפטיים HD",לייפטיים HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12224/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="MAKANHD.il" tvg-name="מכאן HD",מכאן HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12225/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="MUSIC24.il" tvg-name="MUSIC 24",MUSIC 24
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12226/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="NICKJRHD.il" tvg-name="ניק ג׳וניור HD",ניק ג׳וניור HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12228/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="NICKHD.il" tvg-name="ניקלודיאון HD",ניקלודיאון HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12229/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="ONE1HD.il" tvg-name="ONE 1 HD",ONE 1 HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12230/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="ONE2HD.il" tvg-name="ONE 2 HD",ONE 2 HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12231/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="5STARSHD.il" tvg-name="5 סטארס HD",5 סטארס HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12232/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="VIVAHD.il" tvg-name="ויוה HD",ויוה HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12233/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="VIVAPlus.il" tvg-name="ויוה+",ויוה+
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12234/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="YAMTIHONIHD.il" tvg-name="ים תיכוני HD",ים תיכוני HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12235/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="CHANNEL12HD.il" tvg-name="ערוץ 12 HD",ערוץ 12 HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12236/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="KAN11.il" tvg-name="כאן 11",כאן 11
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12237/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="CHANNEL9HD.il" tvg-name="ערוץ 9 HD",ערוץ 9 HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12238/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="BABYTV.il" tvg-name="בייבי TV",בייבי TV
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12239/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="JUNIOR.il" tvg-name="ג׳וניור",ג׳וניור
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12240/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="DISCOVERYCHANNELHD.il" tvg-name="דיסקברי צ׳אנל HD",דיסקברי צ׳אנל HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12241/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="DISNEYCHANNELHD.il" tvg-name="דיסני צ׳אנל HD",דיסני צ׳אנל HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12242/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="E.il" tvg-name="E!",E!
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12243/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="HOPHD.il" tvg-name="הופ HD",הופ HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12244/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="HOTCINEMA1HD.il" tvg-name="הוט סינמה 1 HD",הוט סינמה 1 HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12245/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="LULI.il" tvg-name="לולי",לולי
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12246/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="NATIONALGEOGRAPHICSHD.il" tvg-name="נשיונל ג׳יאוגרפיק HD",נשיונל ג׳יאוגרפיק HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12247/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="NETGEOWILDHD.il" tvg-name="NET GEO WILD HD",NET GEO WILD HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12248/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="SPORT1HD.il" tvg-name="ספורט 1 HD",ספורט 1 HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12249/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="SPORT2HD.il" tvg-name="ספורט 2 HD",ספורט 2 HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12250/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="SPORT3HD.il" tvg-name="ספורט 3 HD",ספורט 3 HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12251/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="SPORT4HD.il" tvg-name="ספורט 4 HD",ספורט 4 HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12252/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="SPORT5HD.il" tvg-name="ספורט 5 HD",ספורט 5 HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12253/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="SPORT5GOLD.il" tvg-name="ספורט 5 גולד",ספורט 5 גולד
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12254/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="SPORT5LIVEHD.il" tvg-name="ספורט 5 לייב HD",ספורט 5 לייב HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12255/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="SPORT5PLUSHD.il" tvg-name="ספורט 5 פלוס HD",ספורט 5 פלוס HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12256/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="YESISRAELICINEMA.il" tvg-name="יס ISRAELI CINEMA",יס ISRAELI CINEMA
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12257/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="YESDOCUHD.il" tvg-name="יס דוקו HD",יס דוקו HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12258/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="NATGEOWILD.il" tvg-name="נשיונל ג׳יאוגרפיק ווילד",נשיונל ג׳יאוגרפיק ווילד
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12259/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="CHANNEL13HD.il" tvg-name="ערוץ 13 HD",ערוץ 13 HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12260/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="CHANNEL20HD.il" tvg-name="ערוץ 20 HD",ערוץ 20 HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12261/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="CHANNEL24MUSICHD.il" tvg-name="ערוץ 24 מוזיקה HD",ערוץ 24 מוזיקה HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12262/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="HALATV.il" tvg-name="הלא TV",הלא TV
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12264/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="HISTORYHD.il" tvg-name="היסטורי HD",היסטורי HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12265/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="APlusHD.il" tvg-name="A+ HD",A+ HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12266/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="BOLLYWOODHD.il" tvg-name="BOLLYWOOD HD",BOLLYWOOD HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12267/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="BOLLYSHOWHD.il" tvg-name="BOLLYSHOW HD",BOLLYSHOW HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12268/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="KNESETCHANNE.il" tvg-name="ערוץ הכנסת",ערוץ הכנסת
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12269/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="YESMOVIESACTIONHD.il" tvg-name="יס מוביז אקשן HD",יס מוביז אקשן HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12270/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="YESMOVIESCOMEDYHD.il" tvg-name="יס מוביז קומדי HD",יס מוביז קומדי HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12271/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="YESMOVIESDRAMAHD.il" tvg-name="יס מוביז דרמה HD",יס מוביז דרמה HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12272/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="YESMOVIESKIDSHD.il" tvg-name="יס מוביז ילדים HD",יס מוביז ילדים HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12273/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="MTVMUSIC.il" tvg-name="MTV MUSIC",MTV MUSIC
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12274/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="STARS.il" tvg-name="סטארס",סטארס
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12278/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="TRAVELCHANNEL.il" tvg-name="טרוול צ׳אנל",טרוול צ׳אנל
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12279/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="YESTVACTIONHD.il" tvg-name="יס אקשן HD",יס אקשן HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12280/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="YESTVCOMEDYHD.il" tvg-name="יס קומדי HD",יס קומדי HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12281/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="YESTVDRAMAHD.il" tvg-name="יס דרמה HD",יס דרמה HD
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12282/index.m3u8
+#EXTINF:0 tvg-rec="0" tvg-id="WIZ.il" tvg-name="וויז",וויז
+#EXTGRP:ישראלי
+http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12283/index.m3u8
