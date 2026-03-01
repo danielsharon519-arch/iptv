@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:0 tvg-rec="3",Keshet 12 IL
+#EXTINF:0 tvg-rec="3",קשת 12
+
 #EXTGRP:ישראלי
 http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2329/index.m3u8
 #EXTINF:0 tvg-rec="3",Reshet 13 IL
@@ -389,3 +390,4 @@ http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12282/index.m3u8
 #EXTINF:0 tvg-rec="0",WIZ IL
 #EXTGRP:ישראלי
 http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/12283/index.m3u8
+
