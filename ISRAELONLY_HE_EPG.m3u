@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/il.xml.gz" x-tvg-url="https://iptv-org.github.io/epg/guides/il.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/globetvapp/epg/main/Israel/israel1.xml"
 #EXTINF:0 tvg-rec="3" tvg-id="Keshet12.il" tvg-name="קשת 12",קשת 12
 #EXTGRP:ישראלי
 http://w43zbmx9.megatv.fun/iptv/8AUDVW2Y7G2Q4Z/2329/index.m3u8
